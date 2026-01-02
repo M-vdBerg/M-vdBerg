@@ -8,6 +8,7 @@ I act in a role comparable to a *principal IT architect* or *technology strategi
 ## 🏆 Certifications
 
 <p align="left">
+  <img src="42001foundation.png" width="110" />
   <img src="itil4_sl.png" width="110" />
   <img src="itil4_f.png" width="110" />
   <img src="itil4_dits.png" width="110" />
@@ -20,7 +21,6 @@ I act in a role comparable to a *principal IT architect* or *technology strategi
 ### In Progress  
 - **IAPP – AIGP (AI Governance Professional)**  
 - **PECB – ISO/IEC 42001 Lead Implementer**  
-- **PECB – ISO/IEC 42001 Foundation**
 
 ---
 
